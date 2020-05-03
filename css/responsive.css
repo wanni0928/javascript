@@ -1,0 +1,12 @@
+.list-container{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    /* display: inline-block; */
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
